@@ -15,15 +15,4 @@ console.log (quartaFeira)
 // Exiba no console o tipo de dado da váriavel quartaFeira;
 console.log (quartaFeira)
 
-//Sem os enunciados// 
-
-let name ="Dandara Aryadne"
-let number = 98
-let anoAtual = 2022
-let ano = anoAtual - number
-console.log (number+ano)
-console.log ("Estou mexendo no console.log")
-let quartaFeira = true
-console.log(quartaFeira)
-
-
+//tem alguma coisa errada e eu não sei o que é// 
